@@ -1,6 +1,6 @@
 # Relatório do TP5
 ## Autor: Marta Capa
-## Data: 2024-10-9
+## Data: 2024-10-16
 
 ### Resumo
 O TP6 consistiu na criação na de uma aplicação em python para a formação de uma turma.
